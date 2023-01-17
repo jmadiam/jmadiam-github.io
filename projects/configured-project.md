@@ -3,12 +3,12 @@ layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Lets get this configured"
-date: 2023
+date: 2023-01-13
 published: true
 labels:
   - Not robotics
   - Ardu D2
-  - C with2 pluses
+  - C with 2 pluses
 summary: "Currently learning about Github and using this time to "engrave" my progress, or something like that. My intention is to look back in a couple months at this and realize how far I have come. "
 ---
 
