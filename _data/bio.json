@@ -1,26 +1,24 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jian Madiam",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/jmadiam.png",
+    "email": "jmadiam@hawaii.edu",
+    "phone": "808-208-5656",
+    "website": "https://jmadiam.github.io",
+    "summary": "I am studying for a B.S. in Management Information Systems at the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96734", "city": "Kailua", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "jmadiam", "url": "http://github.com/jmadiam" },
+      { "network": "linkedin", "username": "jianmadiam", "url": "http://linkedin.com/in/changeme" }
+      { "network": "instagram", "username": "jianmetry", "url": "http://instagram.com/jianmetry" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Computing for Social Good" },
+    { "name": "Lifting Weights" },
+    { "name": "Surfing" },
+    { "name": "Cooking Steaks" }
   ],
   "skills": [
     {
