@@ -8,7 +8,7 @@ published: true
 labels:
   - Not robotics
   - Ardu D2
-  - C w/2 pluses
+  - C with2 pluses
 summary: "Currently learning about Github and using this time to "engrave" my progress... or something like that. My intention is to look back in a couple months at this and realize how far I have come. "
 ---
 
