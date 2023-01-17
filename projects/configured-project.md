@@ -13,6 +13,3 @@ summary: "Currently learning about Github and using this time to "engrave" my pr
 ---
 
 Configured project's goal is to become a configured project. There is nothing special about me completing this work aside from the amount of time I will have spent working on this. The completion of this E0 portfolio is not an insight into my ability, it is an insight into the workload and consistency that is to come.
-
-
-]
