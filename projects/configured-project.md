@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: diamond-head-1.jpeg
 title: "Lets get this configured"
 date: 2023-01-13
 published: true
