@@ -4,7 +4,7 @@ type: project
 image: img/diamond-head-1.jpeg
 title: "Lets get this configured"
 date: 2023-01-13
-published: true
+published: false
 labels:
   - Not robotics
   - Ardu D2
