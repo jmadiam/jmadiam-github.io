@@ -26,7 +26,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub", "VSCODE", "Node.js" ]
     }
   ],
   "education": [
@@ -44,7 +44,7 @@
     {
       "company": "Tane Vegan Izakaya",
       "position": "Server",
-      "website": "",
+      "website": "https://www.tanevegan.com/",
       "startDate": "2019-09-01",
       "endDate": "Present",
       "summary": "Lead Server",
@@ -58,28 +58,12 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      "organization": "Queens Medical Center",
+      "website": "https://www.queens.org/locations/hospitals/qmc/services/imaging-services/contact/",
+      "position": "Student Radiologic Technologist",
+      "startDate": "2021-09-01",
+      "endDate": "2022-03-01",
+      "summary": "Complete radiologic procedures and surgeries under direct supervision",
       ]
     }
   ],
