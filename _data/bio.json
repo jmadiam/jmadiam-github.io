@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "HTML", "CSS", "Java", "Javascript", "SQL", "Common Lisp" ]
+      "keywords": [ "HTML", "CSS", "Java", "Javascript", "SQL" ]
     },
     {
       "name": "Toolsets/OS",
@@ -32,9 +32,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Management Information Systems (expected Fall, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2023-01-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -42,29 +42,18 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Tane Vegan Izakaya",
+      "position": "Server",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2019-09-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Lead Server",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Onboard and train new servers",
+        "Tracked and maintained restaurant supplies",
+        "Prepared nightly revenue reports",
+        "Counted and distribute cash tips to restaurant employees"
       ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
   ],
   "volunteer": [
     {
