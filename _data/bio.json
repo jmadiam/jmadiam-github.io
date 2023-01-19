@@ -57,14 +57,12 @@
     }
   ],
   "volunteer": [
-    {
       "organization": "Queens Medical Center",
       "website": "https://www.queens.org/locations/hospitals/qmc/services/imaging-services/contact/",
       "position": "Student Radiologic Technologist",
       "startDate": "2021-09-01",
       "endDate": "2022-03-01",
       "summary": "Complete radiologic procedures and surgeries under direct supervision",
-    }
   ],
   "references": [
     {
