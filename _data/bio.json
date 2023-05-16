@@ -1,0 +1,74 @@
+{
+  "basics": {
+    "name": "Jian Madiam",
+    "label": "Student",
+    "picture": "https://github.com/jmadiam.png",
+    "email": "jmadiam@hawaii.edu",
+    "phone": "808-208-5656",
+    "website": "https://jmadiam.github.io",
+    "summary": "I am studying for a B.S. in Management Information Systems at the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96734", "city": "Kailua", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "jmadiam", "url": "http://github.com/jmadiam" },
+      { "network": "instagram", "username": "jianmetry", "url": "http://instagram.com/jianmetry" }
+    ]
+  },
+  "interests": [
+    { "name": "Computing for Social Good" },
+    { "name": "Lifting Weights" },
+    { "name": "Surfing" },
+    { "name": "Cooking Steaks" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "HTML", "CSS", "Java", "Javascript", "SQL" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Git/GitHub", "VSCODE", "Node.js" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Management Information Systems (expected Fall, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2023-01-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Tane Vegan Izakaya",
+      "position": "Server",
+      "website": "https://www.tanevegan.com/",
+      "startDate": "2019-09-01",
+      "endDate": "Present",
+      "summary": "Lead Server",
+      "highlights": [
+        "Onboard and train new servers",
+        "Tracked and maintained restaurant supplies",
+        "Prepared nightly revenue reports",
+        "Counted and distribute cash tips to restaurant employees"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Queens Medical Center",
+      "website": "https://www.queens.org/locations/hospitals/qmc/services/imaging-services/contact/",
+      "position": "Student Radiologic Technologist",
+      "startDate": "2021-09-01",
+      "endDate": "2022-03-01",
+      "summary": "Complete radiologic procedures and surgeries under direct supervision"
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
